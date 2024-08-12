@@ -12,7 +12,7 @@ title                    : "Personal academic website of Roman Seidel"
 title_separator          : "-"
 name                     : &name "Roman Seidel"
 description              : &description "personal description"
-url                      : https://roman-seidel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : roman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "roman-seidel.github.io"
 
